@@ -57,6 +57,7 @@ def build_page(postVars):
 
     header = "<h1>User Signup</h1>"
 
+    
     return header + form
 
 class PostVars:
